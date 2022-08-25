@@ -1,0 +1,19 @@
+.clic{
+
+font-size: 28px;
+font-family: "Helvetica", "Times New Roman", "sans-serif";
+color: white;
+}
+
+
+#yes{
+    background-color: black;
+
+
+}
+
+#no{
+    background-color: yellow;
+
+}
+
